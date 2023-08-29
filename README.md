@@ -1,7 +1,8 @@
-### Hi there 👋 I'm Egor Laptev (it's pronounced like Yegor)
+### Hi there 👋 I'm Egor (it's pronounced like Yegor)
 
 ***
 
+ I'm currently a Java developer in Amdocs
 
 <!--
 **egorgorchak/egorgorchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
