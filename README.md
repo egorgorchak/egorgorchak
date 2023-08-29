@@ -2,7 +2,8 @@
 
 ***
 
- I'm currently a Java developer in Amdocs
+ :briefcase: I'm a Java developer at [Amdocs](https://www.amdocs.com/)
+ :school: A graduate of the Peter the Great St. Petersburg Polytechnic University
 
 <!--
 **egorgorchak/egorgorchak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
